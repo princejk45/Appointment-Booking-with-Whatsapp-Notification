@@ -1,0 +1,40 @@
+[09-Aug-2023 12:20:50 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 20
+[09-Aug-2023 12:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 20
+[09-Aug-2023 12:20:50 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 23
+[09-Aug-2023 12:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 23
+[09-Aug-2023 12:22:39 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 32
+[09-Aug-2023 12:22:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 32
+[09-Aug-2023 12:22:39 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 35
+[09-Aug-2023 12:22:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 35
+[09-Aug-2023 12:28:11 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 32
+[09-Aug-2023 12:28:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 32
+[09-Aug-2023 12:28:11 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 35
+[09-Aug-2023 12:28:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 35
+[09-Aug-2023 12:28:20 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 32
+[09-Aug-2023 12:28:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 32
+[09-Aug-2023 12:28:20 America/New_York] PHP Notice:  Undefined variable: row in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 35
+[09-Aug-2023 12:28:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 35
+[09-Aug-2023 13:55:05 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 150
+[09-Aug-2023 13:55:05 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 151
+[09-Aug-2023 13:56:40 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[09-Aug-2023 13:56:40 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
+[09-Aug-2023 13:56:40 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 150
+[09-Aug-2023 13:56:40 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 151
+[10-Aug-2023 10:32:54 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[10-Aug-2023 10:32:54 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
+[10-Aug-2023 10:32:55 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 150
+[10-Aug-2023 10:32:55 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 151
+[10-Aug-2023 10:35:05 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[10-Aug-2023 10:35:05 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
+[10-Aug-2023 10:35:05 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 150
+[10-Aug-2023 10:35:05 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 151
+[10-Aug-2023 10:36:18 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[10-Aug-2023 10:36:18 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
+[10-Aug-2023 10:36:18 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 150
+[10-Aug-2023 10:36:18 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 151
+[10-Aug-2023 10:39:44 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[10-Aug-2023 10:39:44 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
+[10-Aug-2023 10:43:32 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[10-Aug-2023 10:43:32 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
+[10-Aug-2023 10:45:42 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 113
+[10-Aug-2023 10:45:42 America/New_York] PHP Notice:  Undefined variable: timezone in /home/gavirpkn/extramus.naijanetsolution.com/en/notifications.php on line 114
